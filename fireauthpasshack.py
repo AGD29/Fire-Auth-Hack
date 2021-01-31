@@ -4,7 +4,7 @@ def fireAuthPassHack():
     print("<--------------Welcome to GLA FireAuth Password Hack center -------------->")
 
     user_name = input(f'\nEnter your name\n')
-    user_pnum = input(f'\nEnter yout phone number\n')
+    user_pnum = input(f'\nEnter your phone number\n')
     user_id =  input(f'\nEnter your fortinet ID\n')
 
     #print(f"\nUser's name is {user_name}, phone number is {user_pnum}  & his user id is {user_id} \n")
